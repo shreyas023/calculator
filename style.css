@@ -22,7 +22,7 @@ body{
 }
 input{
     width: 280px;
-    height: 150px;
+    height: 250px;
     display: flex;
     align-items: baseline;
     align-content: flex-end;
